@@ -45,7 +45,12 @@ feature-2 branch was used to create and resolve a merge conflict
 
 Merge conflict occurred when different name values were used and was resolved by creating new variables and output lines
 
-GitHub Issues were used to track adding more name variables and improving code comments
+GitHub Issues were 
+  1. Adding additional name variables (i.e FIRSTname, MIDDLEname, LASTname), this was assigned to SarahObeng
+  2. Adding comments for cleaner readability and usability in the future, this was assigned to SOBENG123
+How These Were Resolved
+  1. Added additional name variables to code so that greetings could be more personalized
+  2. Comments were added clarifying what the new variables represented
 
 What I Learned
 
