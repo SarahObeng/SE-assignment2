@@ -9,9 +9,9 @@ Original file is located at
 
 print("Hello, World!")
 
-FIRSTname = "SARAH"
-MIDDLEname = "AFRAH"
-LASTname = "OBENG"  
+FIRSTname = "SARAH"  #User first name
+MIDDLEname = "AFRAH"  #User middle name
+LASTname = "OBENG"  #User last name
 
 print(f"Hello {FIRSTname}")
 
