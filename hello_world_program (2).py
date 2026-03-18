@@ -10,7 +10,7 @@ Original file is located at
 print("Hello, World!")
 
 
-name = "Haras"
+name = "OBENG"  
 
 print(f"Hello {name}")
 
