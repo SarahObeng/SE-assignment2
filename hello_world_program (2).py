@@ -9,9 +9,12 @@ Original file is located at
 
 print("Hello, World!")
 
+FIRSTname = "SARAH"
+MIDDLEname = "AFRAH"
+LASTname = "OBENG"  
 
-name = "OBENG"  
+print(f"Hello {FIRSTname}")
 
-print(f"Hello {name}")
+print(f"{MIDDLEname} World!")
 
-print(f"{name} World!")
+print(f"{LASTname} World!")
